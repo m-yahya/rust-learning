@@ -12,6 +12,7 @@ Welcome to the Rust Learning journey! This repository is your comprehensive guid
 
 - [About](#about)
 - [Getting Started](#getting-started)
+- [Core Concepts](#core-concepts)
 - [Contribution](#contribution)
 - [License](#license)
 
@@ -32,6 +33,13 @@ $ git clone https://github.com/m-yahya/rust-learning.git
 ```bash
 $ cd rust-learning
 ```
+
+## Core Concepts
+
+Explore the foundational concepts of Rust programming:
+
+- [step-00-rust-env-setup](./step-00-rust-env-setup/README.md)
+
 
 ## Contribution
 
